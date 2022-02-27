@@ -22,4 +22,3 @@ podTemplate(containers: [
         }
       }
     }
-    }
