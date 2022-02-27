@@ -12,5 +12,5 @@ Sample yaml scripts,jenkins files etc.,
 main
 feature1
 >>>>>>> main
-feature3a
+feature5
 
