@@ -12,4 +12,5 @@ Sample yaml scripts,jenkins files etc.,
 main
 feature1
 >>>>>>> main
-feature2
+feature2a
+
